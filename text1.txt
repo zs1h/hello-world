@@ -5,4 +5,8 @@ newbranch and master
 sdqedasd
 11111111111111111111
 
+<<<<<<< HEAD
 master
+=======
+newbranch
+>>>>>>> newbranch
